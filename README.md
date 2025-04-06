@@ -5,10 +5,14 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Une application Android interactive de **course entre deux joueurs**, développée avec les dernières technologies Kotlin et Jetpack Compose.
+## 🖼️ Capture d’écran
+
+![Capture d’écran de l'application](https://github.com/user-attachments/assets/f7a34075-8d49-426c-ade4-967c55343bad)
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/f7a34075-8d49-426c-ade4-967c55343bad)
+  <img src="https://github.com/user-attachments/assets/f7a34075-8d49-426c-ade4-967c55343bad" width="300" />
 </p>
+
 
 ---
 
